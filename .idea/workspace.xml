@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67956e8a-59c0-4492-843e-9ef7a055052c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project02/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project02/employee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project02/person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project02/teacher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project03/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project03/employee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project03/person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project03/teacher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project04/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project04/car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project04/sports_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project04/vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project05/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project05/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project05/cat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project05/dog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project_06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="67956e8a-59c0-4492-843e-9ef7a055052c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,15 +40,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/denis.alekov1/Documents/GitHub/SoftUni/RentACarProject/SoftUni-OOP/03_Inheritance/Lab",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/denis.alekov1/Documents/GitHub/SoftUni/RentACarProject/SoftUni-OOP/03_Inheritance/Lab&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/03_Inheritance/Lab" />
@@ -97,6 +77,7 @@
       <workItem from="1740041915981" duration="15000" />
       <workItem from="1740643641528" duration="184000" />
       <workItem from="1740643882768" duration="172000" />
+      <workItem from="1740651567696" duration="18000" />
     </task>
     <servers />
   </component>
