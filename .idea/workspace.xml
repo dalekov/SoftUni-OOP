@@ -2,46 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67956e8a-59c0-4492-843e-9ef7a055052c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project01/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project01/child.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project01/person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project02/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project02/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project02/bear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project02/gorilla.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project02/lizard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project02/mammal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project02/reptile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project02/snake.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project03/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project03/blade_knight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project03/dark_knight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project03/dark_wizard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project03/elf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project03/hero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project03/knight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project03/muse_elf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project03/soul_master.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project03/wizard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project04/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project04/car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project04/cross_motorcycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project04/family_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project04/motorcycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project04/race_motorcycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project04/sport_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project04/vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project05/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project05/drink.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project05/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project05/product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Inheritance/Exercises/project05/product_repository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project02/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project02/employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project02/person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project02/teacher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project03/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project03/employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project03/person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project03/teacher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project04/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project04/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project04/sports_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project04/vehicle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project05/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project05/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project05/cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project05/dog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Inheritance/Lab/project_06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -73,13 +64,14 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/denis.alekov1/Documents/GitHub/SoftUni/RentACarProject/SoftUni-OOP/03_Inheritance/Exercises",
+    "last_opened_file_path": "/Users/denis.alekov1/Documents/GitHub/SoftUni/RentACarProject/SoftUni-OOP/03_Inheritance/Lab",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/03_Inheritance/Lab" />
       <recent name="$PROJECT_DIR$/03_Inheritance/Exercises" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -104,6 +96,7 @@
       <workItem from="1739952022024" duration="5000" />
       <workItem from="1740041915981" duration="15000" />
       <workItem from="1740643641528" duration="184000" />
+      <workItem from="1740643882768" duration="172000" />
     </task>
     <servers />
   </component>
