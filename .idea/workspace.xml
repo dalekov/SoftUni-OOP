@@ -4,41 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67956e8a-59c0-4492-843e-9ef7a055052c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/04_Encapsulation/Exercise/01_wild_cat_zoo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Encapsulation/Exercise/01_wild_cat_zoo/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Encapsulation/Exercise/01_wild_cat_zoo/caretaker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Encapsulation/Exercise/01_wild_cat_zoo/cheetah.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Encapsulation/Exercise/01_wild_cat_zoo/keeper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Encapsulation/Exercise/01_wild_cat_zoo/lion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Encapsulation/Exercise/01_wild_cat_zoo/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Encapsulation/Exercise/01_wild_cat_zoo/tiger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Encapsulation/Exercise/01_wild_cat_zoo/vet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Encapsulation/Exercise/01_wild_cat_zoo/worker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Encapsulation/Exercise/01_wild_cat_zoo/zoo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Encapsulation/Exercise/02_pizza_maker/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Encapsulation/Exercise/02_pizza_maker/dough.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Encapsulation/Exercise/02_pizza_maker/pizza.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Encapsulation/Exercise/02_pizza_maker/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Encapsulation/Exercise/02_pizza_maker/topping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Encapsulation/Lab/01_person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Encapsulation/Lab/02_mammal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Encapsulation/Lab/03_profile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Encapsulation/Lab/04_email_validator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Encapsulation/Lab/05_account.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Static_and_Class_Methods/Exercise/01_photo_album.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Static_and_Class_Methods/Exercise/02_movie_world/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Static_and_Class_Methods/Exercise/02_movie_world/customer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Static_and_Class_Methods/Exercise/02_movie_world/dvd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Static_and_Class_Methods/Exercise/02_movie_world/movie_world.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Static_and_Class_Methods/Lab/01_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Static_and_Class_Methods/Lab/02_shop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Static_and_Class_Methods/Lab/03_integer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Static_and_Class_Methods/Lab/04_hotel_rooms/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Static_and_Class_Methods/Lab/04_hotel_rooms/hotel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Static_and_Class_Methods/Lab/04_hotel_rooms/room.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="67956e8a-59c0-4492-843e-9ef7a055052c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,7 +87,7 @@
       <workItem from="1740643641528" duration="184000" />
       <workItem from="1740643882768" duration="172000" />
       <workItem from="1740651567696" duration="18000" />
-      <workItem from="1741181369734" duration="479000" />
+      <workItem from="1741181369734" duration="495000" />
     </task>
     <servers />
   </component>
