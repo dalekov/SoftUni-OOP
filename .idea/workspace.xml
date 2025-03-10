@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67956e8a-59c0-4492-843e-9ef7a055052c" name="Changes" comment="" />
+    <list default="true" id="67956e8a-59c0-4492-843e-9ef7a055052c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/06_Polymorphism_and_Abstraction/Lab/02_image_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Polymorphism_and_Abstraction/Lab/03_playing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Polymorphism_and_Abstraction/Lab/04_Shapes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +52,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/denis.alekov1/Documents/GitHub/SoftUni/RentACarProject/SoftUni-OOP/04_Encapsulation/Exercise",
+    "last_opened_file_path": "/Users/denis.alekov1/Documents/GitHub/SoftUni/RentACarProject/SoftUni-OOP",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -58,11 +63,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/04_Encapsulation/Exercise" />
       <recent name="$PROJECT_DIR$/05_Static_and_Class_Methods/Exercise" />
       <recent name="$PROJECT_DIR$/05_Static_and_Class_Methods/Lab" />
       <recent name="$PROJECT_DIR$/03_Inheritance/Lab" />
-      <recent name="$PROJECT_DIR$/03_Inheritance/Exercises" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -89,6 +94,7 @@
       <workItem from="1740651567696" duration="18000" />
       <workItem from="1741181369734" duration="495000" />
       <workItem from="1741181934020" duration="711000" />
+      <workItem from="1741601142574" duration="6000" />
     </task>
     <servers />
   </component>
