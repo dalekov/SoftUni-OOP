@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67956e8a-59c0-4492-843e-9ef7a055052c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/06_Polymorphism_and_Abstraction/Exercise/01_vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_Polymorphism_and_Abstraction/Exercise/02_groups.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_Polymorphism_and_Abstraction/Exercise/03_account.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,26 +45,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/denis.alekov1/Documents/GitHub/SoftUni/RentACarProject/SoftUni-OOP/06_Polymorphism_and_Abstraction",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/denis.alekov1/Documents/GitHub/SoftUni/RentACarProject/SoftUni-OOP/06_Polymorphism_and_Abstraction/Exercise&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/06_Polymorphism_and_Abstraction/Exercise" />
       <recent name="$PROJECT_DIR$/06_Polymorphism_and_Abstraction" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/04_Encapsulation/Exercise" />
       <recent name="$PROJECT_DIR$/05_Static_and_Class_Methods/Exercise" />
-      <recent name="$PROJECT_DIR$/05_Static_and_Class_Methods/Lab" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -95,6 +93,8 @@
       <workItem from="1741181934020" duration="711000" />
       <workItem from="1741601142574" duration="6000" />
       <workItem from="1741624375091" duration="7000" />
+      <workItem from="1741625505502" duration="189000" />
+      <workItem from="1741682001697" duration="8000" />
     </task>
     <servers />
   </component>
