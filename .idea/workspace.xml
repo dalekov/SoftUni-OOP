@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67956e8a-59c0-4492-843e-9ef7a055052c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/09_Decorators/Exercise/01_logged.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Decorators/Exercise/02_even_parameters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Decorators/Exercise/03_bold_italic_underline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Decorators/Exercise/04_type_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Decorators/Exercise/05_cache.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Decorators/Exercise/06_html_tags.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Decorators/Exercise/07_store_results.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Decorators/Exercise/08_execution_time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Decorators/Exercise/results.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Decorators/Lab/01_number_increment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Decorators/Lab/02_vowel_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Decorators/Lab/03_even_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Decorators/Lab/04_multiply.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_Decorators/Exercise/07_store_results.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_Decorators/Exercise/07_store_results.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_Decorators/Exercise/results.txt" beforeDir="false" afterPath="$PROJECT_DIR$/09_Decorators/Exercise/results.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,19 +46,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/denis.alekov1/Documents/GitHub/SoftUni/RentACarProject/SoftUni-OOP&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.07_store_results.executor": "Run",
+    "Python.scratch.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/denis.alekov1/Documents/GitHub/SoftUni/RentACarProject/SoftUni-OOP",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -109,10 +100,15 @@
       <workItem from="1741682001697" duration="8000" />
       <workItem from="1742207513491" duration="24000" />
       <workItem from="1742290691953" duration="24000" />
+      <workItem from="1742321356229" duration="152000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SoftUni_OOP$07_store_results.coverage" NAME="07_store_results Coverage Results" MODIFIED="1742321497582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_Decorators/Exercise" />
+    <SUITE FILE_PATH="coverage/SoftUni_OOP$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1742321443384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
